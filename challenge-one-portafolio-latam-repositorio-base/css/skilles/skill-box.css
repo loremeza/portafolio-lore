@@ -1,0 +1,14 @@
+.skills__box{
+	background-color: azure;
+	justify-content: center;
+	width: 8rem;
+	height: 6rem;
+	margin-left: 1rem;
+	border-radius: 5px;
+	
+
+}
+.skills__box:hover{
+	transform: scale(1.5);
+	background-color:gold;
+}

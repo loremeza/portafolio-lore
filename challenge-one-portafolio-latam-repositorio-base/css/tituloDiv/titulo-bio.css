@@ -1,0 +1,33 @@
+.titulo__bio{
+   text-align: center;
+   font-size: 30px;
+   font-weight: bold;
+   margin-bottom: 5px;
+   margin-top: 3rem;
+   
+   color:whitesmoke;
+   
+   
+   }
+
+   .minombre{
+      font-size: 60px;
+      text-align: center;
+      font-family: 'Courgette', cursive;
+      background: linear-gradient(plum, pink);
+      color: transparent;
+      background-clip: text;
+      -webkit-background-clip: text;
+      animation: text 5s linear infinite;
+      margin-top: 3rem;
+   }
+
+@keyframes text {
+   0% {
+      filter: hue-rotate(0deg);
+   }
+   100% {
+      filter: hue-rotate(360deg);
+   }
+}
+   
