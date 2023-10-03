@@ -1,0 +1,26 @@
+.titulo__imagen{
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    margin: 3rem;
+  
+
+}
+
+
+  
+ @media screen and (max-width:768px){
+    .titulo__imagen{
+         justify-items: center;
+         margin-left: auto;
+         margin-right: auto;
+    }
+ }
+    
+    
+
+
+
+    
+
+

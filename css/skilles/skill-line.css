@@ -1,0 +1,39 @@
+.skills__line{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem;
+    margin: 1rem;
+    border: 1rem;
+    
+   
+}
+ 
+@media screen and (min-width:1000px) {
+    .skills__line{
+       
+       display: flex;
+       justify-content: space-around;
+       margin: 2rem;
+        
+    }
+    
+ }
+ @media screen and (max-width: 768px) {
+    .skills__line{
+       
+       
+       display: flex;
+       justify-content: space-around;
+       margin: 2rem;
+       
+    }
+ }
+
+
+ 
+ 
+ 
+    
+    
